@@ -1,6 +1,10 @@
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Mdeden1618/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Mdeden1618/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 # Sum up 24 November's world news in one image
 
-Entry for https://make.fun/bounty/news-image-20261124
+Entry for the [make.fun bounty "Sum up 24 November's world news in one image"](https://make.fun/bounty/news-image-20261124).
 
 - `main.py` (Python 3.13, no dependencies) copies the bundled `image.png`
   to `/output/entry.png`. No network, deterministic — both runs write
