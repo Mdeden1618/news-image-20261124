@@ -1,0 +1,50 @@
+Sources for "Sum up 24 November's world news in one image" - 24 November 2026
+All stories were first reported on 24 November 2026, before the deadline of 26 November 2026 00:00 UTC.
+Each story in the image has at least one source below.
+
+1. Huawei found guilty of trade-secret theft and bank fraud, acquitted of racketeering
+Title: China's Huawei convicted in US in sprawling criminal trial over Iran business
+Publication date: 24 November 2026
+URL: https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/
+Note: US jury in Brooklyn convicted Huawei on 10 of 12 counts (trade-secret conspiracy, bank and wire fraud, sanctions violations); acquitted on racketeering conspiracy and obstruction. Sentencing September 2027.
+
+2. Houthi drone attack on Riyadh's PIF Tower, 11 wounded
+Title: Houthi Drone Attack Hits Riyadh Financial District Tower, Draws Global Condemnation
+Publication date: 24 November 2026
+URL: https://www.leaders-mena.com/houthi-drone-attack-hits-riyadh-financial-district-tower-draws-global-condemnation/
+Note: Drone struck a tower in Riyadh's King Abdullah Financial District (witnesses identified the 80-storey PIF Tower); 11 injured (2 Saudis, 2 Indians, 3 Nepalis, 4 Egyptians); second strike on the same building in under a week. Houthis claimed responsibility on 25 November.
+
+3. Tankers hit by mines in the Strait of Hormuz
+Title: World News: 24 November 2026 (Iran says four tankers hit mines in Strait of Hormuz)
+Publication date: 24 November 2026 (published 04:04 UTC, updated 25 November 01:30 UTC)
+URL: https://dailysummaryof.com/world/2026-11-24
+Note: Iran's IRGC said three oil tankers hit naval mines and caught fire, then a fourth; the IRGC also said its navy targeted a container ship in the strait. The Joint Maritime Information Centre said the mine claims were unconfirmed. Follow-up: https://www.reuters.com/world/iran-says-ships-hit-mines-hormuz-warns-vessels-coordinate-passage-2026-11-25/
+
+4. Ukraine's drone strikes on Russian ships; Zelensky confirms Gulf of Finland strike
+Title: Zelenskyy Confirms Ukraine Hit Russian Ship in Gulf of Finland
+Publication date: 24 November 2026
+URL: https://gcaptain.com/zelenskyy-confirms-ukraine-hit-russian-ship-in-gulf-of-finland/
+Note: Zelensky confirmed Ukraine was behind the drone strike on the Russian cargo ship Sparta II in the Gulf of Finland (struck Saturday 21 November, crew evacuated, ship towed to St Petersburg); Kyiv also said naval drones struck a Russian corvette and cargo ship off Libya. Second source (Reuters, 24 November 2026): https://srnnews.com/zelenskiy-confirms-ukraine-hit-russian-ship-in-gulf-of-finland-ally-norway-urges-caution/
+
+5. Cartagena supermarket siege, about 25 hostages held
+Title: World News: 24 November 2026 (Armed men hold 25 hostages at Cartagena supermarket)
+Publication date: 24 November 2026 (first reported 17:35 UTC)
+URL: https://dailysummaryof.com/world/2026-11-24
+Note: Armed men seized an Exito supermarket in Cartagena's La Castellana neighbourhood and held about 25 people hostage after a failed armoured-truck robbery; five elderly women were released on 24 November and the rest were rescued in an early-hours operation on 25 November. Outcome: https://www.reuters.com/world/americas/all-hostages-held-colombian-supermarket-freed-afp-reports-2026-11-25/
+
+6. Turkish Air Force helicopter crash kills five in Eskisehir
+Title: Five Turkish soldiers killed in helicopter crash, ministry says
+Publication date: 24 November 2026
+URL: https://wtbx.com/2026/11/24/turkish-military-helicopter-crashed-search-and-rescue-under-way/
+Note: Reuters, Ankara, 24 November: an AS-532 Cougar helicopter crashed shortly after taking off from Eskisehir for a training flight; all five crew killed; cause not given; second deadly military helicopter crash in Turkiye in 12 days.
+
+7. Senegal regains the Africa Cup of Nations title after sports court appeal
+Title: Senegal restored as Africa Cup of Nations champion after CAS ruling
+Publication date: 24 November 2026
+URL: https://www.thescore.com/topsn/news/3665191/senegal-restored-as-africa-cup-of-nations-champion-after-cas-ruling
+Note: AP, Lausanne: the Court of Arbitration for Sport upheld Senegal's appeal on Tuesday, overturning the CAF ruling that had handed the trophy to Morocco; Senegal won the final 1-0 after extra time in January.
+
+Notes:
+- Image is original, created 25 November 2026 for this bounty. No photograph or artwork of anyone else is copied.
+- Stories covered (7): Huawei verdict, Riyadh PIF Tower attack, Hormuz tankers hit by mines, Ukraine strikes on Russian ships, Cartagena supermarket siege, Turkish helicopter crash, Senegal AFCON title restored.
+- Prominent (masthead and top): the date 24 November 2026, Huawei courthouse scene, Riyadh tower, Hormuz tankers.
